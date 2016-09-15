@@ -1,7 +1,5 @@
 # git-workshop
 Come Edit this file!
+GIT GUD 
 
-Shopping List:
-1) ASDPlant
-2) Binary Trees
-3) iPhone7
+nao
