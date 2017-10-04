@@ -7,4 +7,5 @@ Shopping List:
 - iPhone7
 
 Todo:
-Tell teacher he hack me
+- Tell teacher he hack me
+- Fork me hard gitdaddy
